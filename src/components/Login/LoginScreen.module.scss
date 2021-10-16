@@ -1,0 +1,10 @@
+.loginForm {
+    display: flex;
+    margin-top: 24px;
+    justify-content: center;
+
+    .loginButton {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+}
