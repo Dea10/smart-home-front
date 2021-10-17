@@ -16,7 +16,7 @@ const LoginScreen = () => {
                 </div>
                 <div className="input-group mb-3">
                     <span className="input-group-text" id="inputGroup-sizing-default">Password</span>
-                    <input type="text" className="form-control" />
+                    <input type="password"  className="form-control" />
                 </div>
 
                 <div className={styles.loginButton}>
